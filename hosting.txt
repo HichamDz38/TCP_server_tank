@@ -1,0 +1,79 @@
+website x-politics.com
+DATABASE NAME: SIM868
+USERNAME: SIM868
+PASSWORD: SIM8681
+
+
+http://173.248.130.122:9001/
+username: politics
+password: SIM8681
+
+database
+
+username: measure
+password: SIM8681
+
+
+
+database padlock
+
+user:locker
+password: rekcol123
+
+
+email:
+	user:admin@padlock.com
+	pass:nimda13456
+
+	
+FTP account
+	user:politicsdbuser
+	pass:D)n!_Pr$
+	
+	user:locker
+	pass:rekcol123
+VPS:
+	https://cp3001.databasemart.com/Default.aspx?pid=Login&ReturnUrl=%2fDefault.aspx%3fpid%3dHome
+
+		username: softseer
+		password: Softseeradmin1@	
+SSH
+	IP: 45.35.12.92
+	username: root
+	password: !Softseeradmin1@
+	
+	
+server shutdown keyword:~lZ123Fgf12nnzoe124@zer!~
+
+
+
+
+
+new VPS&hosting
+
+https://45.35.12.92:8080
+https://45.35.12.92:8080/login/
+	username:	admin
+	password:	!Softseeradmin1@
+https://45.35.12.92:8080/phpmyadmin/
+	username:	root 
+	password:	!Softseeradmin1@
+
+FTP:
+	username:	hichamlocker
+	password:	AtgWddyW3@M
+www.monitorlytics.com
+	username:	hichamiyanu
+	password:	LMo!gdTC7cc
+
+	username:	hichamhicham_admin
+	password:	hN2QaL@2td
+www.monitor-rwc.ml
+	username:	hichamhicham
+	password:	Jt8x8KGAj_y
+www.activedge.ml/
+	username:	chrishichamdz38
+	password:	DbP#9ysM
+database:
+	username:	root
+	password:	!Softseeradmin1@

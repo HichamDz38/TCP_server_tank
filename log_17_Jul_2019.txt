@@ -1,0 +1,7 @@
+[+] Server TCP_server_V2.6 started : 192.168.32.1	
+	00:27:05 - 17/Jul/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V2.6	
+		00:27:29 - 17/Jul/2019	
+	[!] connection problem client 192.168.32.1	
+		[WinError 10053] Une connexion établie a été abandonnée par un logiciel de votre ordinateur hôte	
+		00:27:40 - 17/Jul/2019
