@@ -1,0 +1,99 @@
+[+] Server TCP_server_V2.0 started : 192.168.32.1	
+	02:56:46 - 11/Jun/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V2.0	
+		02:57:54 - 11/Jun/2019	
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V2.0	
+		02:58:39 - 11/Jun/2019	
+	[!] connection problem client 192.168.32.1	
+		[WinError 10054] Une connexion existante a dû être fermée par l’hôte distant	
+		02:58:40 - 11/Jun/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V2.0	
+		02:59:02 - 11/Jun/2019	
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V2.0	
+		02:59:06 - 11/Jun/2019	
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V2.0	
+		03:00:14 - 11/Jun/2019	
+	[!] shut down request 192.168.32.1	
+		03:00:14 - 11/Jun/2019	
+	[-] shut down server	
+		03:00:14 - 11/Jun/2019	
+		[-] close connection 192.168.32.1	
+		[-] close connection 192.168.32.1	
+		[-] close connection 192.168.32.1	
+		[-] close connection 192.168.32.1	
+		[-] close connection 192.168.32.1	
+[+] Server TCP_server_V2.0 started : 192.168.32.1	
+	03:00:28 - 11/Jun/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V2.0	
+		03:00:33 - 11/Jun/2019	
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V2.0	
+		03:01:37 - 11/Jun/2019	
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V2.0	
+		03:04:05 - 11/Jun/2019	
+	[!] connection problem client 192.168.32.1	
+		invalid literal for int() with base 16: '0158-b22'	
+		03:04:06 - 11/Jun/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V2.0	
+		03:07:40 - 11/Jun/2019	
+	[!] shut down request 192.168.32.1	
+		03:07:40 - 11/Jun/2019	
+	[-] shut down server	
+		03:07:40 - 11/Jun/2019	
+		[-] close connection 192.168.32.1	
+		[-] close connection 192.168.32.1	
+		[-] close connection 192.168.32.1	
+		[-] close connection 192.168.32.1	
+[+] Server TCP_server_V2.0 started : 192.168.32.1	
+	03:07:47 - 11/Jun/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V2.0	
+		03:07:51 - 11/Jun/2019	
+	[!] connection problem client 192.168.32.1	
+		invalid literal for int() with base 16: '0158-b22'	
+		03:07:51 - 11/Jun/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V2.0	
+		03:09:01 - 11/Jun/2019	
+	[!] shut down request 192.168.32.1	
+		03:09:01 - 11/Jun/2019	
+	[!] connection problem client 192.168.32.1	
+		'str' object cannot be interpreted as an integer	
+		03:09:01 - 11/Jun/2019
+[+] Server TCP_server_V2.0 started : 192.168.32.1	
+	03:09:21 - 11/Jun/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V2.0	
+		03:09:24 - 11/Jun/2019	
+	[!] connection problem client 192.168.32.1	
+		invalid literal for int() with base 16: '0158-b22'	
+		03:09:24 - 11/Jun/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V2.0	
+		03:15:26 - 11/Jun/2019	
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V2.0	
+		03:15:28 - 11/Jun/2019	
+[+] Server TCP_server_V2.0 started : 192.168.32.1	
+	03:15:41 - 11/Jun/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V2.0	
+		03:15:46 - 11/Jun/2019	
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V2.0	
+		03:15:57 - 11/Jun/2019	
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V2.0	
+		03:16:31 - 11/Jun/2019	
+	[!] shut down request 192.168.32.1	
+		03:16:31 - 11/Jun/2019	
+	[!] connection problem client 192.168.32.1	
+		'str' object cannot be interpreted as an integer	
+		03:16:31 - 11/Jun/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V2.0	
+		03:17:14 - 11/Jun/2019	
+	[!] shut down request 192.168.32.1	
+		03:17:14 - 11/Jun/2019	
+	[!] connection problem client 192.168.32.1	
+		'str' object cannot be interpreted as an integer	
+		03:17:14 - 11/Jun/2019
+[+] Server TCP_server_V2.0 started : 192.168.32.1	
+	03:17:31 - 11/Jun/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V2.0	
+		03:17:33 - 11/Jun/2019	
+	[!] shut down request 192.168.32.1	
+		03:17:33 - 11/Jun/2019	
+	[-] shut down server	
+		03:17:33 - 11/Jun/2019	
+		[-] close connection 192.168.32.1	

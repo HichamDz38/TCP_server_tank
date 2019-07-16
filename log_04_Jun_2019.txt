@@ -1,0 +1,29 @@
+[+] Server TCP_server_V1.1 started : 192.168.32.1	
+	12:05:34 - 04/Jun/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		12:05:48 - 04/Jun/2019	
+	[-] close connection timeout 192.168.32.1	
+		12:07:04 - 04/Jun/2019	
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		12:07:58 - 04/Jun/2019	
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		12:08:32 - 04/Jun/2019	
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		12:52:48 - 04/Jun/2019	
+	[!] connection problem client 192.168.32.1	
+		[WinError 10053] Une connexion établie a été abandonnée par un logiciel de votre ordinateur hôte	
+		12:52:49 - 04/Jun/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		12:52:49 - 04/Jun/2019	
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		12:52:49 - 04/Jun/2019	
+	[!] shut down request 192.168.32.1	
+		12:52:49 - 04/Jun/2019	
+	[-] shut down server	
+		12:52:49 - 04/Jun/2019	
+		[-] close connection 192.168.32.1	
+		[-] close connection 192.168.32.1	
+		[-] close connection 192.168.32.1	
+		[-] close connection 192.168.32.1	
+		[-] close connection 192.168.32.1	
+		[-] close connection 192.168.32.1	

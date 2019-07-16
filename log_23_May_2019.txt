@@ -1,0 +1,148 @@
+[+] Server TCP_server_V1.1 started : 192.168.32.1	
+	12:35:48 - 23/May/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		12:36:10 - 23/May/2019	
+[+] Server TCP_server_V1.1 started : 192.168.32.1	
+	12:38:26 - 23/May/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		12:38:43 - 23/May/2019	
+[+] Server TCP_server_V1.1 started : 192.168.32.1	
+	12:45:52 - 23/May/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		12:46:04 - 23/May/2019	
+	[!] connection problem client 192.168.32.1	
+		[WinError 10054] Une connexion existante a dû être fermée par l’hôte distant	
+		12:49:59 - 23/May/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		12:50:21 - 23/May/2019	
+	[!] connection problem client 192.168.32.1	
+		write() argument must be str, not list	
+		12:50:46 - 23/May/2019
+[+] Server TCP_server_V1.1 started : 192.168.32.1	
+	12:53:24 - 23/May/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		12:53:33 - 23/May/2019	
+	[!] connection problem client 192.168.32.1	
+		sequence item 0: expected str instance, int found	
+		12:53:49 - 23/May/2019
+[+] Server TCP_server_V1.1 started : 192.168.32.1	
+	12:58:26 - 23/May/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		12:58:31 - 23/May/2019	
+	[!] connection problem client 192.168.32.1	
+		sequence item 0: expected str instance, int found	
+		12:58:33 - 23/May/2019
+[+] Server TCP_server_V1.1 started : 192.168.32.1	
+	12:59:57 - 23/May/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		13:00:08 - 23/May/2019	
+	[!] connection problem client 192.168.32.1	
+		sequence item 0: expected str instance, int found	
+		13:00:26 - 23/May/2019
+[+] Server TCP_server_V1.1 started : 192.168.32.1	
+	13:01:45 - 23/May/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		13:01:52 - 23/May/2019	
+	[!] connection problem client 192.168.32.1	
+		sequence item 0: expected str instance, int found	
+		13:01:54 - 23/May/2019
+[+] Server TCP_server_V1.1 started : 192.168.32.1	
+	13:03:47 - 23/May/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		13:03:57 - 23/May/2019	
+	[!] connection problem client 192.168.32.1	
+		write() argument must be str, not list	
+		13:04:00 - 23/May/2019
+[+] Server TCP_server_V1.1 started : 192.168.32.1	
+	13:05:56 - 23/May/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		13:06:02 - 23/May/2019	
+	[!] connection problem client 192.168.32.1	
+		local variable 'Ll' referenced before assignment	
+		13:06:02 - 23/May/2019
+[+] Server TCP_server_V1.1 started : 192.168.32.1	
+	13:06:31 - 23/May/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		13:06:37 - 23/May/2019	
+	[!] connection problem client 192.168.32.1	
+		can only concatenate str (not "bytes") to str	
+		13:06:39 - 23/May/2019
+[+] Server TCP_server_V1.1 started : 192.168.32.1	
+	13:07:23 - 23/May/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		13:07:29 - 23/May/2019	
+	[!] connection problem client 192.168.32.1	
+		write() argument must be str, not bytes	
+		13:07:30 - 23/May/2019
+[+] Server TCP_server_V1.1 started : 192.168.32.1	
+	13:10:46 - 23/May/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		13:10:53 - 23/May/2019	
+	[!] connection problem client 192.168.32.1	
+		'charmap' codec can't encode character '\u2592' in position 4: character maps to <undefined>	
+		13:10:54 - 23/May/2019
+[+] Server TCP_server_V1.1 started : 192.168.32.1	
+	13:13:12 - 23/May/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		13:13:20 - 23/May/2019	
+	[!] connection problem client 192.168.32.1	
+		'charmap' codec can't encode character '\u2592' in position 4: character maps to <undefined>	
+		13:13:21 - 23/May/2019
+[+] Server TCP_server_V1.1 started : 192.168.32.1	
+	13:13:51 - 23/May/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		13:13:59 - 23/May/2019	
+	[!] connection problem client 192.168.32.1	
+		sequence item 0: expected str instance, int found	
+		13:14:00 - 23/May/2019
+[+] Server TCP_server_V1.1 started : 192.168.32.1	
+	13:16:30 - 23/May/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		13:16:39 - 23/May/2019	
+	[!] connection problem client 192.168.32.1	
+		sequence item 0: expected str instance, int found	
+		13:16:42 - 23/May/2019
+[+] Server TCP_server_V1.1 started : 192.168.32.1	
+	13:19:15 - 23/May/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		13:19:22 - 23/May/2019	
+	[-] close connection timeout 192.168.32.1	
+		13:20:23 - 23/May/2019	
+[+] Server TCP_server_V1.1 started : 192.168.32.1	
+	13:23:54 - 23/May/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		13:24:04 - 23/May/2019	
+	[!] connection problem client 192.168.32.1	
+		[WinError 10054] Une connexion existante a dû être fermée par l’hôte distant	
+		13:24:17 - 23/May/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		13:24:37 - 23/May/2019	
+	[!] shut down request 192.168.32.1	
+		13:24:47 - 23/May/2019	
+	[-] shut down server	
+		13:24:47 - 23/May/2019	
+		[-] close connection 192.168.32.1	
+		[-] close connection 192.168.32.1	
+[+] Server TCP_server_V1.1 started : 192.168.32.1	
+	13:25:06 - 23/May/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		13:25:12 - 23/May/2019	
+	[!] connection problem client 192.168.32.1	
+		list index out of range	
+		13:25:53 - 23/May/2019
+[+] Server TCP_server_V1.1 started : 192.168.32.1	
+	13:26:58 - 23/May/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		13:27:09 - 23/May/2019	
+	[!] shut down request 192.168.32.1	
+		13:27:28 - 23/May/2019	
+	[-] shut down server	
+		13:27:28 - 23/May/2019	
+		[-] close connection 192.168.32.1	
+[+] Server TCP_server_V1.1 started : 192.168.32.1	
+	13:27:34 - 23/May/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		13:27:40 - 23/May/2019	
+	[!] connection problem client 192.168.32.1	
+		[WinError 10054] Une connexion existante a dû être fermée par l’hôte distant	
+		13:28:14 - 23/May/2019

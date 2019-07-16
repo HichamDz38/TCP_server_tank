@@ -1,0 +1,898 @@
+[+] Server TCP_server_V1.1 started : 192.168.32.1	
+	03:15:51 - 08/Jun/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		03:16:05 - 08/Jun/2019	
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		03:17:06 - 08/Jun/2019	
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		03:17:47 - 08/Jun/2019	
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		03:17:59 - 08/Jun/2019	
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		03:18:50 - 08/Jun/2019	
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		03:19:46 - 08/Jun/2019	
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		03:20:18 - 08/Jun/2019	
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		03:22:42 - 08/Jun/2019	
+[+] Server TCP_server_V1.1 started : 192.168.32.1	
+	03:25:05 - 08/Jun/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		03:25:11 - 08/Jun/2019	
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		03:25:30 - 08/Jun/2019	
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		03:26:13 - 08/Jun/2019	
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		03:26:30 - 08/Jun/2019	
+	[!] connection problem client 192.168.32.1	
+		[WinError 10054] Une connexion existante a dû être fermée par l’hôte distant	
+		03:27:02 - 08/Jun/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		03:27:09 - 08/Jun/2019	
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		03:33:07 - 08/Jun/2019	
+	[!] connection problem client 192.168.32.1	
+		[WinError 10054] Une connexion existante a dû être fermée par l’hôte distant	
+		03:33:07 - 08/Jun/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		03:33:07 - 08/Jun/2019	
+[+] Server TCP_server_V1.1 started : 192.168.32.1	
+	03:33:11 - 08/Jun/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		03:33:13 - 08/Jun/2019	
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		03:33:22 - 08/Jun/2019	
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		03:33:59 - 08/Jun/2019	
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		03:34:09 - 08/Jun/2019	
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		03:35:06 - 08/Jun/2019	
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		03:35:35 - 08/Jun/2019	
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		03:35:53 - 08/Jun/2019	
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		03:36:35 - 08/Jun/2019	
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		03:38:16 - 08/Jun/2019	
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		03:38:36 - 08/Jun/2019	
+	[-] close connection timeout 192.168.32.1	
+		03:44:13 - 08/Jun/2019	
+[+] Server TCP_server_V1.1 started : 192.168.32.1	
+	03:56:49 - 08/Jun/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		03:57:01 - 08/Jun/2019	
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		03:57:20 - 08/Jun/2019	
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		03:57:25 - 08/Jun/2019	
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		03:57:40 - 08/Jun/2019	
+	[!] connection problem client 192.168.32.1	
+		ord() expected a character, but string of length 3 found	
+		03:57:43 - 08/Jun/2019
+[+] Server TCP_server_V1.1 started : 192.168.32.1	
+	03:59:07 - 08/Jun/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		03:59:13 - 08/Jun/2019	
+	[!] connection problem client 192.168.32.1	
+		ord() expected a character, but string of length 8 found	
+		03:59:17 - 08/Jun/2019
+[+] Server TCP_server_V1.1 started : 192.168.32.1	
+	04:00:43 - 08/Jun/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		04:00:57 - 08/Jun/2019	
+	[!] connection problem client 192.168.32.1	
+		ord() expected a character, but string of length 8 found	
+		04:00:57 - 08/Jun/2019
+[+] Server TCP_server_V1.1 started : 192.168.32.1	
+	13:02:56 - 08/Jun/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		13:02:58 - 08/Jun/2019	
+	[!] connection problem client 192.168.32.1	
+		ord() expected a character, but string of length 4 found	
+		13:02:58 - 08/Jun/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		13:05:49 - 08/Jun/2019	
+	[!] connection problem client 192.168.32.1	
+		[WinError 10054] Une connexion existante a dû être fermée par l’hôte distant	
+		13:06:08 - 08/Jun/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		13:06:19 - 08/Jun/2019	
+	[!] connection problem client 192.168.32.1	
+		ord() expected a character, but string of length 4 found	
+		13:06:19 - 08/Jun/2019
+[+] Server TCP_server_V1.1 started : 192.168.32.1	
+	13:07:43 - 08/Jun/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		13:07:46 - 08/Jun/2019	
+	[!] connection problem client 192.168.32.1	
+		unpack requires a buffer of 4 bytes	
+		13:08:06 - 08/Jun/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		13:11:25 - 08/Jun/2019	
+	[!] connection problem client 192.168.32.1	
+		[WinError 10054] Une connexion existante a dû être fermée par l’hôte distant	
+		13:11:45 - 08/Jun/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		13:11:48 - 08/Jun/2019	
+[+] Server TCP_server_V1.1 started : 192.168.32.1	
+	13:13:22 - 08/Jun/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		13:13:28 - 08/Jun/2019	
+	[!] connection problem client 192.168.32.1	
+		unpack requires a buffer of 4 bytes	
+		13:13:48 - 08/Jun/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		13:14:08 - 08/Jun/2019	
+	[!] connection problem client 192.168.32.1	
+		unpack requires a buffer of 4 bytes	
+		13:14:28 - 08/Jun/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		13:14:52 - 08/Jun/2019	
+	[!] connection problem client 192.168.32.1	
+		unpack requires a buffer of 4 bytes	
+		13:15:12 - 08/Jun/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		13:15:42 - 08/Jun/2019	
+	[!] connection problem client 192.168.32.1	
+		unpack requires a buffer of 4 bytes	
+		13:16:02 - 08/Jun/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		13:16:13 - 08/Jun/2019	
+	[!] connection problem client 192.168.32.1	
+		unpack requires a buffer of 4 bytes	
+		13:16:14 - 08/Jun/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		13:16:47 - 08/Jun/2019	
+	[!] connection problem client 192.168.32.1	
+		unpack requires a buffer of 4 bytes	
+		13:16:48 - 08/Jun/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		13:32:25 - 08/Jun/2019	
+	[!] connection problem client 192.168.32.1	
+		unpack requires a buffer of 4 bytes	
+		13:32:25 - 08/Jun/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		13:43:34 - 08/Jun/2019	
+	[!] connection problem client 192.168.32.1	
+		unpack requires a buffer of 4 bytes	
+		13:43:36 - 08/Jun/2019
+[+] Server TCP_server_V1.1 started : 192.168.32.1	
+	13:58:49 - 08/Jun/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		13:58:52 - 08/Jun/2019	
+	[!] connection problem client 192.168.32.1	
+		'list' object has no attribute 'appen'	
+		13:58:52 - 08/Jun/2019
+[+] Server TCP_server_V1.1 started : 192.168.32.1	
+	13:59:33 - 08/Jun/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		13:59:35 - 08/Jun/2019	
+	[!] connection problem client 192.168.32.1	
+		ord() expected a character, but string of length 7 found	
+		13:59:35 - 08/Jun/2019
+[+] Server TCP_server_V1.1 started : 192.168.32.1	
+	14:02:36 - 08/Jun/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		14:02:38 - 08/Jun/2019	
+	[!] shut down request 192.168.32.1	
+		14:02:38 - 08/Jun/2019	
+	[-] shut down server	
+		14:02:38 - 08/Jun/2019	
+		[-] close connection 192.168.32.1	
+[+] Server TCP_server_V1.1 started : 192.168.32.1	
+	14:05:49 - 08/Jun/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		14:05:53 - 08/Jun/2019	
+	[!] shut down request 192.168.32.1	
+		14:05:53 - 08/Jun/2019	
+	[-] shut down server	
+		14:05:53 - 08/Jun/2019	
+		[-] close connection 192.168.32.1	
+	[!] connection problem server
+		'NoneType' object has no attribute 'kill'
+		14:05:53 - 08/Jun/2019
+[+] Server TCP_server_V1.1 started : 192.168.32.1	
+	14:06:13 - 08/Jun/2019
+[+] Server TCP_server_V1.1 started : 192.168.32.1	
+	14:07:32 - 08/Jun/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		14:07:34 - 08/Jun/2019	
+	[!] shut down request 192.168.32.1	
+		14:07:34 - 08/Jun/2019	
+	[-] shut down server	
+		14:07:34 - 08/Jun/2019	
+		[-] close connection 192.168.32.1	
+	[!] connection problem server
+		'Thread' object has no attribute 'kill'
+		14:07:34 - 08/Jun/2019
+[+] Server TCP_server_V1.1 started : 192.168.32.1	
+	14:07:54 - 08/Jun/2019
+[+] Server TCP_server_V1.1 started : 192.168.32.1	
+	14:16:15 - 08/Jun/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		14:16:18 - 08/Jun/2019	
+	[!] shut down request 192.168.32.1	
+		14:16:18 - 08/Jun/2019	
+	[-] shut down server	
+		14:16:18 - 08/Jun/2019	
+		[-] close connection 192.168.32.1	
+[+] Server TCP_server_V1.1 started : 192.168.32.1	
+	14:16:48 - 08/Jun/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		14:16:50 - 08/Jun/2019	
+	[!] shut down request 192.168.32.1	
+		14:16:50 - 08/Jun/2019	
+	[-] shut down server	
+		14:16:50 - 08/Jun/2019	
+		[-] close connection 192.168.32.1	
+[+] Server TCP_server_V1.1 started : 192.168.32.1	
+	14:17:04 - 08/Jun/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		14:17:11 - 08/Jun/2019	
+	[!] connection problem client 192.168.32.1	
+		local variable 'plat_M_SN' referenced before assignment	
+		14:17:12 - 08/Jun/2019
+[+] Server TCP_server_V1.1 started : 192.168.32.1	
+	14:18:29 - 08/Jun/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		14:18:31 - 08/Jun/2019	
+	[!] connection problem client 192.168.32.1	
+		local variable 'plat_M_SN' referenced before assignment	
+		14:18:32 - 08/Jun/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		14:18:42 - 08/Jun/2019	
+	[!] shut down request 192.168.32.1	
+		14:18:42 - 08/Jun/2019	
+	[-] shut down server	
+		14:18:42 - 08/Jun/2019	
+		[-] close connection 192.168.32.1	
+		[-] close connection 192.168.32.1	
+[+] Server TCP_server_V1.1 started : 192.168.32.1	
+	14:19:05 - 08/Jun/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		14:19:07 - 08/Jun/2019	
+	[!] connection problem client 192.168.32.1	
+		unpack requires a buffer of 4 bytes	
+		14:19:08 - 08/Jun/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		14:19:56 - 08/Jun/2019	
+	[!] shut down request 192.168.32.1	
+		14:19:56 - 08/Jun/2019	
+	[-] shut down server	
+		14:19:56 - 08/Jun/2019	
+		[-] close connection 192.168.32.1	
+		[-] close connection 192.168.32.1	
+[+] Server TCP_server_V1.1 started : 192.168.32.1	
+	14:19:58 - 08/Jun/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		14:20:01 - 08/Jun/2019	
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		14:20:16 - 08/Jun/2019	
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		14:21:59 - 08/Jun/2019	
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		14:28:13 - 08/Jun/2019	
+	[!] shut down request 192.168.32.1	
+		14:28:13 - 08/Jun/2019	
+	[-] shut down server	
+		14:28:13 - 08/Jun/2019	
+		[-] close connection 192.168.32.1	
+		[-] close connection 192.168.32.1	
+		[-] close connection 192.168.32.1	
+		[-] close connection 192.168.32.1	
+[+] Server TCP_server_V1.1 started : 192.168.32.1	
+	14:28:17 - 08/Jun/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		14:28:20 - 08/Jun/2019	
+	[!] connection problem client 192.168.32.1	
+		tuple index out of range	
+		14:28:20 - 08/Jun/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		14:29:36 - 08/Jun/2019	
+	[!] shut down request 192.168.32.1	
+		14:29:36 - 08/Jun/2019	
+	[-] shut down server	
+		14:29:36 - 08/Jun/2019	
+		[-] close connection 192.168.32.1	
+		[-] close connection 192.168.32.1	
+[+] Server TCP_server_V1.1 started : 192.168.32.1	
+	14:29:47 - 08/Jun/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		14:29:51 - 08/Jun/2019	
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		14:30:32 - 08/Jun/2019	
+	[!] shut down request 192.168.32.1	
+		14:30:32 - 08/Jun/2019	
+	[-] shut down server	
+		14:30:32 - 08/Jun/2019	
+		[-] close connection 192.168.32.1	
+		[-] close connection 192.168.32.1	
+[+] Server TCP_server_V1.1 started : 192.168.32.1	
+	14:30:35 - 08/Jun/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		14:30:38 - 08/Jun/2019	
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		14:31:16 - 08/Jun/2019	
+	[!] shut down request 192.168.32.1	
+		14:31:16 - 08/Jun/2019	
+	[-] shut down server	
+		14:31:16 - 08/Jun/2019	
+		[-] close connection 192.168.32.1	
+		[-] close connection 192.168.32.1	
+[+] Server TCP_server_V1.1 started : 192.168.32.1	
+	14:31:18 - 08/Jun/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		14:31:21 - 08/Jun/2019	
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		14:33:05 - 08/Jun/2019	
+	[!] shut down request 192.168.32.1	
+		14:33:05 - 08/Jun/2019	
+	[-] shut down server	
+		14:33:05 - 08/Jun/2019	
+		[-] close connection 192.168.32.1	
+		[-] close connection 192.168.32.1	
+[+] Server TCP_server_V1.1 started : 192.168.32.1	
+	14:33:08 - 08/Jun/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		14:33:10 - 08/Jun/2019	
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		14:34:33 - 08/Jun/2019	
+	[!] shut down request 192.168.32.1	
+		14:34:33 - 08/Jun/2019	
+	[-] shut down server	
+		14:34:33 - 08/Jun/2019	
+		[-] close connection 192.168.32.1	
+		[-] close connection 192.168.32.1	
+[+] Server TCP_server_V1.1 started : 192.168.32.1	
+	14:34:35 - 08/Jun/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		14:34:37 - 08/Jun/2019	
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		14:38:33 - 08/Jun/2019	
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		14:38:38 - 08/Jun/2019	
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		14:38:40 - 08/Jun/2019	
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		14:40:57 - 08/Jun/2019	
+	[!] shut down request 192.168.32.1	
+		14:40:57 - 08/Jun/2019	
+	[-] shut down server	
+		14:40:57 - 08/Jun/2019	
+		[-] close connection 192.168.32.1	
+		[-] close connection 192.168.32.1	
+		[-] close connection 192.168.32.1	
+		[-] close connection 192.168.32.1	
+		[-] close connection 192.168.32.1	
+[+] Server TCP_server_V1.1 started : 192.168.32.1	
+	14:41:03 - 08/Jun/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		14:41:06 - 08/Jun/2019	
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		14:41:11 - 08/Jun/2019	
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		14:41:12 - 08/Jun/2019	
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		14:41:14 - 08/Jun/2019	
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		14:41:16 - 08/Jun/2019	
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		15:42:08 - 08/Jun/2019	
+	[!] shut down request 192.168.32.1	
+		15:42:08 - 08/Jun/2019	
+	[-] shut down server	
+		15:42:08 - 08/Jun/2019	
+		[-] close connection 192.168.32.1	
+		[-] close connection 192.168.32.1	
+		[-] close connection 192.168.32.1	
+		[-] close connection 192.168.32.1	
+		[-] close connection 192.168.32.1	
+		[-] close connection 192.168.32.1	
+[+] Server TCP_server_V1.1 started : 192.168.32.1	
+	15:42:36 - 08/Jun/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		15:42:42 - 08/Jun/2019	
+	[!] shut down request 192.168.32.1	
+		15:42:42 - 08/Jun/2019	
+	[-] shut down server	
+		15:42:42 - 08/Jun/2019	
+		[-] close connection 192.168.32.1	
+[+] Server TCP_server_V1.1 started : 192.168.32.1	
+	15:42:53 - 08/Jun/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		15:42:55 - 08/Jun/2019	
+	[!] connection problem client 192.168.32.1	
+		name 'Direction' is not defined	
+		15:42:55 - 08/Jun/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		15:44:39 - 08/Jun/2019	
+	[!] shut down request 192.168.32.1	
+		15:44:39 - 08/Jun/2019	
+	[-] shut down server	
+		15:44:39 - 08/Jun/2019	
+		[-] close connection 192.168.32.1	
+		[-] close connection 192.168.32.1	
+[+] Server TCP_server_V1.1 started : 192.168.32.1	
+	15:44:47 - 08/Jun/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		15:44:50 - 08/Jun/2019	
+	[!] connection problem client 192.168.32.1	
+		name 'header' is not defined	
+		15:44:50 - 08/Jun/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		15:47:13 - 08/Jun/2019	
+	[!] shut down request 192.168.32.1	
+		15:47:13 - 08/Jun/2019	
+	[-] shut down server	
+		15:47:13 - 08/Jun/2019	
+		[-] close connection 192.168.32.1	
+		[-] close connection 192.168.32.1	
+[+] Server TCP_server_V1.1 started : 192.168.32.1	
+	15:47:20 - 08/Jun/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		15:47:22 - 08/Jun/2019	
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		15:47:37 - 08/Jun/2019	
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		15:48:03 - 08/Jun/2019	
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		15:48:17 - 08/Jun/2019	
+	[!] shut down request 192.168.32.1	
+		15:48:17 - 08/Jun/2019	
+	[-] shut down server	
+		15:48:17 - 08/Jun/2019	
+		[-] close connection 192.168.32.1	
+		[-] close connection 192.168.32.1	
+		[-] close connection 192.168.32.1	
+		[-] close connection 192.168.32.1	
+[+] Server TCP_server_V1.1 started : 192.168.32.1	
+	15:48:53 - 08/Jun/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		15:48:56 - 08/Jun/2019	
+[+] Server TCP_server_V1.1 started : 192.168.32.1	
+	15:51:12 - 08/Jun/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		15:51:18 - 08/Jun/2019	
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		15:51:24 - 08/Jun/2019	
+[+] Server TCP_server_V1.1 started : 192.168.32.1	
+	15:54:13 - 08/Jun/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		15:54:17 - 08/Jun/2019	
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		15:54:24 - 08/Jun/2019	
+[+] Server TCP_server_V1.1 started : 192.168.32.1	
+	15:55:02 - 08/Jun/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		15:55:05 - 08/Jun/2019	
+	[!] connection problem client 192.168.32.1	
+		local variable 'time' referenced before assignment	
+		15:55:05 - 08/Jun/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		15:57:04 - 08/Jun/2019	
+	[!] shut down request 192.168.32.1	
+		15:57:04 - 08/Jun/2019	
+	[-] shut down server	
+		15:57:04 - 08/Jun/2019	
+		[-] close connection 192.168.32.1	
+		[-] close connection 192.168.32.1	
+[+] Server TCP_server_V1.1 started : 192.168.32.1	
+	15:57:08 - 08/Jun/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		15:57:09 - 08/Jun/2019	
+	[!] connection problem client 192.168.32.1	
+		local variable 'time' referenced before assignment	
+		15:57:09 - 08/Jun/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		15:59:48 - 08/Jun/2019	
+	[!] shut down request 192.168.32.1	
+		15:59:48 - 08/Jun/2019	
+	[-] shut down server	
+		15:59:48 - 08/Jun/2019	
+		[-] close connection 192.168.32.1	
+		[-] close connection 192.168.32.1	
+[+] Server TCP_server_V1.1 started : 192.168.32.1	
+	15:59:55 - 08/Jun/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		15:59:57 - 08/Jun/2019	
+[+] Server TCP_server_V1.1 started : 192.168.32.1	
+	16:02:44 - 08/Jun/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		16:02:47 - 08/Jun/2019	
+	[!] connection problem client 192.168.32.1	
+		[WinError 10054] Une connexion existante a dû être fermée par l’hôte distant	
+		16:09:35 - 08/Jun/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		16:42:06 - 08/Jun/2019	
+[+] Server TCP_server_V1.1 started : 192.168.32.1	
+	16:46:52 - 08/Jun/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		16:46:56 - 08/Jun/2019	
+	[!] connection problem client 192.168.32.1	
+		[WinError 10054] Une connexion existante a dû être fermée par l’hôte distant	
+		16:48:10 - 08/Jun/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		16:51:17 - 08/Jun/2019	
+	[!] connection problem client 192.168.32.1	
+		[WinError 10054] Une connexion existante a dû être fermée par l’hôte distant	
+		16:52:31 - 08/Jun/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		16:52:46 - 08/Jun/2019	
+	[!] shut down request 192.168.32.1	
+		16:52:47 - 08/Jun/2019	
+	[-] shut down server	
+		16:52:47 - 08/Jun/2019	
+		[-] close connection 192.168.32.1	
+		[-] close connection 192.168.32.1	
+		[-] close connection 192.168.32.1	
+[+] Server TCP_server_V1.1 started : 192.168.32.1	
+	16:52:50 - 08/Jun/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		16:52:52 - 08/Jun/2019	
+	[-] close connection timeout 192.168.32.1	
+		16:53:33 - 08/Jun/2019	
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		17:01:01 - 08/Jun/2019	
+	[!] shut down request 192.168.32.1	
+		17:01:01 - 08/Jun/2019	
+	[!] connection problem client 192.168.32.1	
+		[WinError 10053] Une connexion établie a été abandonnée par un logiciel de votre ordinateur hôte	
+		17:01:01 - 08/Jun/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		17:01:01 - 08/Jun/2019	
+	[!] shut down request 192.168.32.1	
+		17:01:01 - 08/Jun/2019	
+	[!] connection problem client 192.168.32.1	
+		[WinError 10053] Une connexion établie a été abandonnée par un logiciel de votre ordinateur hôte	
+		17:01:01 - 08/Jun/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		17:01:01 - 08/Jun/2019	
+	[-] close connection timeout 192.168.32.1	
+		17:02:06 - 08/Jun/2019	
+[+] Server TCP_server_V1.1 started : 192.168.32.1	
+	17:03:38 - 08/Jun/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		17:03:42 - 08/Jun/2019	
+	[-] close connection timeout 192.168.32.1	
+		17:04:25 - 08/Jun/2019	
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		17:06:40 - 08/Jun/2019	
+	[!] connection problem client 192.168.32.1	
+		invalid literal for int() with base 10: "select * from devices where sn='000000000531'2"	
+		17:07:12 - 08/Jun/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		17:14:34 - 08/Jun/2019	
+	[!] shut down request 192.168.32.1	
+		17:14:34 - 08/Jun/2019	
+	[-] shut down server	
+		17:14:34 - 08/Jun/2019	
+		[-] close connection 192.168.32.1	
+		[-] close connection 192.168.32.1	
+		[-] close connection 192.168.32.1	
+[+] Server TCP_server_V1.1 started : 192.168.32.1	
+	17:14:37 - 08/Jun/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		17:14:40 - 08/Jun/2019	
+	[!] connection problem client 192.168.32.1	
+		invalid literal for int() with base 10: "select * from devices where sn='000000000531'insert into data(id_device,Alert,Status,Latitude,Longitude,Length,Speed,Direction,Datetime) value('13','34603531','0','87.097354','1459.617792','0','0','7	
+		17:15:13 - 08/Jun/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		17:18:07 - 08/Jun/2019	
+	[!] shut down request 192.168.32.1	
+		17:18:07 - 08/Jun/2019	
+	[-] shut down server	
+		17:18:07 - 08/Jun/2019	
+		[-] close connection 192.168.32.1	
+		[-] close connection 192.168.32.1	
+[+] Server TCP_server_V1.1 started : 192.168.32.1	
+	17:18:16 - 08/Jun/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		17:18:19 - 08/Jun/2019	
+	[!] connection problem client 192.168.32.1	
+		invalid literal for int() with base 10: "select * from devices where sn='000000000531'insert into data(id_device,Alert,Status,Latitude,Longitude,Length,Speed,Direction,Datetime) value('13','34603531','0','87.097354','1459.617792','0','0','7	
+		17:18:51 - 08/Jun/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		18:01:43 - 08/Jun/2019	
+	[!] shut down request 192.168.32.1	
+		18:01:43 - 08/Jun/2019	
+	[!] connection problem client 192.168.32.1	
+		[WinError 10053] Une connexion établie a été abandonnée par un logiciel de votre ordinateur hôte	
+		18:01:43 - 08/Jun/2019
+[+] Server TCP_server_V1.1 started : 192.168.32.1	
+	18:02:09 - 08/Jun/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		18:02:10 - 08/Jun/2019	
+	[!] connection problem client 192.168.32.1	
+		invalid literal for int() with base 10: "select * from devices where sn='000000000531'insert into data(id_device,Alert,Status,Latitude,Longitude,Length,Speed,Direction,Datetime) value('13','0','3','22.607138','113.84184','0','0','0','2016-1	
+		18:02:11 - 08/Jun/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		18:03:40 - 08/Jun/2019	
+	[!] shut down request 192.168.32.1	
+		18:03:40 - 08/Jun/2019	
+	[-] shut down server	
+		18:03:40 - 08/Jun/2019	
+		[-] close connection 192.168.32.1	
+		[-] close connection 192.168.32.1	
+[+] Server TCP_server_V1.1 started : 192.168.32.1	
+	18:03:42 - 08/Jun/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		18:03:45 - 08/Jun/2019	
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		18:05:01 - 08/Jun/2019	
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		18:05:13 - 08/Jun/2019	
+	[-] close connection timeout 192.168.32.1	
+		18:05:57 - 08/Jun/2019	
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		18:08:44 - 08/Jun/2019	
+	[!] connection problem client 192.168.32.1	
+		[WinError 10054] Une connexion existante a dû être fermée par l’hôte distant	
+		18:11:39 - 08/Jun/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		18:14:11 - 08/Jun/2019	
+	[!] shut down request 192.168.32.1	
+		18:14:11 - 08/Jun/2019	
+	[!] connection problem client 192.168.32.1	
+		[WinError 10053] Une connexion établie a été abandonnée par un logiciel de votre ordinateur hôte	
+		18:14:11 - 08/Jun/2019
+[+] Server TCP_server_V1.1 started : 192.168.32.1	
+	18:14:21 - 08/Jun/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		18:14:24 - 08/Jun/2019	
+	[!] connection problem client 192.168.32.1	
+		[WinError 10054] Une connexion existante a dû être fermée par l’hôte distant	
+		18:16:29 - 08/Jun/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		18:17:29 - 08/Jun/2019	
+	[!] shut down request 192.168.32.1	
+		18:17:29 - 08/Jun/2019	
+	[-] shut down server	
+		18:17:29 - 08/Jun/2019	
+		[-] close connection 192.168.32.1	
+		[-] close connection 192.168.32.1	
+[+] Server TCP_server_V1.1 started : 192.168.32.1	
+	18:17:32 - 08/Jun/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		18:17:36 - 08/Jun/2019	
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		18:19:37 - 08/Jun/2019	
+	[!] shut down request 192.168.32.1	
+		18:19:38 - 08/Jun/2019	
+	[-] shut down server	
+		18:19:38 - 08/Jun/2019	
+		[-] close connection 192.168.32.1	
+		[-] close connection 192.168.32.1	
+[+] Server TCP_server_V1.1 started : 192.168.32.1	
+	18:19:40 - 08/Jun/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		18:19:42 - 08/Jun/2019	
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		18:20:24 - 08/Jun/2019	
+	[!] shut down request 192.168.32.1	
+		18:20:24 - 08/Jun/2019	
+	[-] shut down server	
+		18:20:24 - 08/Jun/2019	
+		[-] close connection 192.168.32.1	
+		[-] close connection 192.168.32.1	
+[+] Server TCP_server_V1.1 started : 192.168.32.1	
+	18:20:27 - 08/Jun/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		18:20:29 - 08/Jun/2019	
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		18:20:37 - 08/Jun/2019	
+	[!] shut down request 192.168.32.1	
+		18:20:37 - 08/Jun/2019	
+	[-] shut down server	
+		18:20:37 - 08/Jun/2019	
+		[-] close connection 192.168.32.1	
+		[-] close connection 192.168.32.1	
+[+] Server TCP_server_V1.1 started : 192.168.32.1	
+	18:22:21 - 08/Jun/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		18:22:24 - 08/Jun/2019	
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		18:25:32 - 08/Jun/2019	
+	[!] shut down request 192.168.32.1	
+		18:25:32 - 08/Jun/2019	
+	[-] shut down server	
+		18:25:32 - 08/Jun/2019	
+		[-] close connection 192.168.32.1	
+		[-] close connection 192.168.32.1	
+[+] Server TCP_server_V1.1 started : 192.168.32.1	
+	18:25:34 - 08/Jun/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		18:25:36 - 08/Jun/2019	
+	[!] connection problem client 192.168.32.1	
+		invalid literal for int() with base 10: "2016-11-18 11:02:21select * from devices where sn='000000000531'insert into data(id_device,Alert,Status,Latitude,Longitude,Length,Speed,Direction,Datetime) value('13','0','3','22.607138','113.84184',	
+		18:25:37 - 08/Jun/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		18:29:47 - 08/Jun/2019	
+	[!] shut down request 192.168.32.1	
+		18:29:47 - 08/Jun/2019	
+	[-] shut down server	
+		18:29:47 - 08/Jun/2019	
+		[-] close connection 192.168.32.1	
+		[-] close connection 192.168.32.1	
+[+] Server TCP_server_V1.1 started : 192.168.32.1	
+	18:29:50 - 08/Jun/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		18:29:52 - 08/Jun/2019	
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		18:30:05 - 08/Jun/2019	
+	[-] close connection timeout 192.168.32.1	
+		18:30:49 - 08/Jun/2019	
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		18:38:56 - 08/Jun/2019	
+	[!] shut down request 192.168.32.1	
+		18:38:56 - 08/Jun/2019	
+	[-] shut down server	
+		18:38:56 - 08/Jun/2019	
+		[-] close connection 192.168.32.1	
+		[-] close connection 192.168.32.1	
+		[-] close connection 192.168.32.1	
+[+] Server TCP_server_V1.1 started : 192.168.32.1	
+	18:39:02 - 08/Jun/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		18:39:03 - 08/Jun/2019	
+	[!] connection problem client 192.168.32.1	
+		list index out of range	
+		18:39:36 - 08/Jun/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		18:40:09 - 08/Jun/2019	
+	[!] shut down request 192.168.32.1	
+		18:40:09 - 08/Jun/2019	
+	[-] shut down server	
+		18:40:09 - 08/Jun/2019	
+		[-] close connection 192.168.32.1	
+		[-] close connection 192.168.32.1	
+[+] Server TCP_server_V1.1 started : 192.168.32.1	
+	18:40:14 - 08/Jun/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		18:40:16 - 08/Jun/2019	
+	[!] connection problem client 192.168.32.1	
+		can only concatenate list (not "int") to list	
+		18:40:18 - 08/Jun/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		19:40:45 - 08/Jun/2019	
+	[!] shut down request 192.168.32.1	
+		19:40:45 - 08/Jun/2019	
+	[-] shut down server	
+		19:40:45 - 08/Jun/2019	
+		[-] close connection 192.168.32.1	
+		[-] close connection 192.168.32.1	
+[+] Server TCP_server_V1.1 started : 192.168.32.1	
+	19:41:58 - 08/Jun/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		19:42:00 - 08/Jun/2019	
+	[!] connection problem client 192.168.32.1	
+		can only concatenate list (not "int") to list	
+		19:42:02 - 08/Jun/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		22:38:05 - 08/Jun/2019	
+	[!] shut down request 192.168.32.1	
+		22:38:05 - 08/Jun/2019	
+	[-] shut down server	
+		22:38:05 - 08/Jun/2019	
+		[-] close connection 192.168.32.1	
+		[-] close connection 192.168.32.1	
+[+] Server TCP_server_V1.1 started : 192.168.32.1	
+	22:38:07 - 08/Jun/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		22:38:11 - 08/Jun/2019	
+	[!] connection problem client 192.168.32.1	
+		can only concatenate list (not "int") to list	
+		22:38:13 - 08/Jun/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		22:41:09 - 08/Jun/2019	
+	[!] shut down request 192.168.32.1	
+		22:41:09 - 08/Jun/2019	
+	[-] shut down server	
+		22:41:09 - 08/Jun/2019	
+		[-] close connection 192.168.32.1	
+		[-] close connection 192.168.32.1	
+[+] Server TCP_server_V1.1 started : 192.168.32.1	
+	22:41:11 - 08/Jun/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		22:41:12 - 08/Jun/2019	
+	[!] connection problem client 192.168.32.1	
+		can only concatenate list (not "int") to list	
+		22:41:12 - 08/Jun/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		22:41:31 - 08/Jun/2019	
+	[!] shut down request 192.168.32.1	
+		22:41:31 - 08/Jun/2019	
+	[-] shut down server	
+		22:41:31 - 08/Jun/2019	
+		[-] close connection 192.168.32.1	
+		[-] close connection 192.168.32.1	
+[+] Server TCP_server_V1.1 started : 192.168.32.1	
+	22:41:33 - 08/Jun/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		22:41:35 - 08/Jun/2019	
+	[!] connection problem client 192.168.32.1	
+		can only concatenate list (not "int") to list	
+		22:41:35 - 08/Jun/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		22:42:22 - 08/Jun/2019	
+	[!] shut down request 192.168.32.1	
+		22:42:22 - 08/Jun/2019	
+	[-] shut down server	
+		22:42:22 - 08/Jun/2019	
+		[-] close connection 192.168.32.1	
+		[-] close connection 192.168.32.1	
+[+] Server TCP_server_V1.1 started : 192.168.32.1	
+	22:42:24 - 08/Jun/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		22:42:26 - 08/Jun/2019	
+	[!] connection problem client 192.168.32.1	
+		local variable 'length' referenced before assignment	
+		22:42:26 - 08/Jun/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		22:42:46 - 08/Jun/2019	
+	[!] shut down request 192.168.32.1	
+		22:42:46 - 08/Jun/2019	
+	[-] shut down server	
+		22:42:46 - 08/Jun/2019	
+		[-] close connection 192.168.32.1	
+		[-] close connection 192.168.32.1	
+[+] Server TCP_server_V1.1 started : 192.168.32.1	
+	22:42:48 - 08/Jun/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		22:42:50 - 08/Jun/2019	
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		22:44:10 - 08/Jun/2019	
+	[!] shut down request 192.168.32.1	
+		22:44:10 - 08/Jun/2019	
+	[-] shut down server	
+		22:44:10 - 08/Jun/2019	
+		[-] close connection 192.168.32.1	
+		[-] close connection 192.168.32.1	
+[+] Server TCP_server_V1.1 started : 192.168.32.1	
+	22:44:13 - 08/Jun/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		22:44:16 - 08/Jun/2019	
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		22:46:43 - 08/Jun/2019	
+	[!] shut down request 192.168.32.1	
+		22:46:43 - 08/Jun/2019	
+	[-] shut down server	
+		22:46:43 - 08/Jun/2019	
+		[-] close connection 192.168.32.1	
+		[-] close connection 192.168.32.1	
+[+] Server TCP_server_V1.1 started : 192.168.32.1	
+	22:46:46 - 08/Jun/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		22:46:57 - 08/Jun/2019	
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		23:01:11 - 08/Jun/2019	
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		23:01:19 - 08/Jun/2019	
+	[!] shut down request 192.168.32.1	
+		23:01:19 - 08/Jun/2019	
+	[-] shut down server	
+		23:01:19 - 08/Jun/2019	
+		[-] close connection 192.168.32.1	
+		[-] close connection 192.168.32.1	
+		[-] close connection 192.168.32.1	
+[+] Server TCP_server_V1.1 started : 192.168.32.1	
+	23:01:22 - 08/Jun/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		23:01:25 - 08/Jun/2019	
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		23:35:50 - 08/Jun/2019	
+	[!] shut down request 192.168.32.1	
+		23:35:50 - 08/Jun/2019	
+	[-] shut down server	
+		23:35:50 - 08/Jun/2019	
+		[-] close connection 192.168.32.1	
+		[-] close connection 192.168.32.1	
+[+] Server TCP_server_V1.1 started : 192.168.32.1	
+	23:35:54 - 08/Jun/2019
+	[+]  get connection from 192.168.32.1 Server version TCP_server_V1.1	
+		23:35:59 - 08/Jun/2019	
