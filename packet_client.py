@@ -9,14 +9,14 @@ s = socket.socket()         # Create a socket object
 #target = socket.gethostname()
 #targ="45.35.12.92"#input('enter the server : ')
 targ="192.168.32.1"
-port = 5132#int(input('enter the port :'))#5132                # Reserve a port for your service.
+port = 5133#int(input('enter the port :'))#5132                # Reserve a port for your service.
 s.connect((targ, port))        # Bind to the port
 
 print("connected to : {}:{}".format(targ,port))
 
 def main():
 	#m=list(map(lambda x:int(x,16),"7E 02 00 00 5D 00 00 00 00 05 31 00 0A 00 00 00 00 00 00 00 03 01 58 F5 22 06 C9 16 B0 00 00 00 00 00 00 19 06 14 11 02 21 01 04 00 00 00 00 33 39 2A 4D 30 30 2C 34 38 2C 31 31 34 31 35 30 47 5A 44 53 45 54 4D 30 30 2D 30 30 26 30 30 30 30 30 30 30 30 30 30 30 30 26 31 32 33 34 35 36 37 38 39 30 31 32 33 34 35 36 23 92 7E".split()))
-	m=list(map(lambda x:int(x,16),"7e 02 00 00 52 01 00 36 52 64 47 51 47 00 00 00 00 00 00 00 00 01 5a 31 92 06 c8 6b a0 00 00 00 00 00 00 19 03 19 12 16 08 33 34 2a 4d 30 30 2c 34 33 2c 31 31 34 32 30 30 30 31 32 33 34 35 36 26 30 30 30 30 30 30 30 30 30 30 30 30 26 31 32 33 34 35 36 37 38 39 30 31 32 33 34 35 36 23 81 7e".split()))
+	m=list(map(lambda x:int(x,16),"24 24 82 00 33 00 34 25 e2 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 47 00 00 00 00 1d 00 00 00 00 00 00 00 00 00 03 00 00 00 00 00 00 00 00 00 08 13 0d ".split()))
 	for i in m:
 		val = bytes([i])#struct.pack('!b', i)
 		s.send(val)

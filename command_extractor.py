@@ -138,8 +138,7 @@ def get_data(cmd):
 			header={
 				'message_id':message_id,
 				'message_sn':message_sn,
-				'Terminal_id':T_Id,
-				"link":'http://www.monitor-rwc.ml//post.php'
+				'Terminal_id':T_Id
 			}
 
 			data={
@@ -155,12 +154,13 @@ def get_data(cmd):
 			}
 			ind=41
 			MMM=(m_length[0]&3)*256+m_length[1]
-			header['number_message']=1
+			header['number_message']=0
 			while ind<MMM-2:
 				#print(cmd[ind],cmd[ind+1])
 				LT=get_extra_data(cmd[ind:ind+2+cmd[ind+1]])
 				if LT:
 					data.update(LT)
+					header['number_message']+=1
 				else: 
 					print("error data {}\n{}".format(cmd,cmd[ind:ind+2+cmd[ind+1]]))
 				ind=ind+2+cmd[ind+1]
@@ -176,8 +176,7 @@ def get_data(cmd):
 			header={
 					'message_id':message_id,
 					'message_sn':message_sn,
-					'Terminal_id':T_Id,
-					"link":'http://www.monitor-rwc.ml//post.php'
+					'Terminal_id':T_Id
 				}
 			#print('header ',header)
 			#print(cmd[ind])
@@ -225,33 +224,9 @@ def get_data(cmd):
 			header['number_message']=number_message
 			return [header,Data]
 		elif message_id==[3,19]:
-			Message_body=cmd[3:5]
-			T_Id=cmd[5:11]
-			Terminal_ID='{:02x}{:02x}{:02x}{:02x}{:02x}{:02x}'.format(T_Id[0],T_Id[1],T_Id[2],T_Id[3],T_Id[4],T_Id[5])
-			message_sn=cmd[11:13]
-			N_param=cmd[13:15]
-			param_Total=cmd[15]
-			ind=16
-			data={"Terminal_ID":Terminal_ID}
-			commands=[]
-			while ind<len(cmd)-2:
-				x={
-					str(cmd[ind]):get_command(cmd[ind],cmd[ind+2:ind+cmd[ind+1]+2])
-				}
-				data.update(x)
-				ind+=cmd[ind+1]+2
-			header={
-					'message_id':message_id,
-					'message_sn':message_sn,
-					'Terminal_id':T_Id,
-					"link":'http://www.monitor-rwc.ml//config.php'
-				}
-			header['number_message']=1
 			print("get  query responce")
-			print("_"*15)
-			print(data)
-			print("_"*15)
-			return [header,[data]]
+			print("add support in the next version")
+			print(cmd)
 		else:
 			print("error message typecnot support yet")
 			print("message_id :",message_id)
@@ -259,218 +234,23 @@ def get_data(cmd):
 	except Exception as e:
 		print("exception get data {}".format(e))
 		return [None,None]
-def get_command(x,y):
-	if x==1:
-		return '{:02x}{:02x}{:02x}{:02x}{:02x}{:02x}'.format(y[0],y[1],y[2],y[3],y[4],y[5])
-	elif x==2:
-		return y[0]*256+y[1]
-	elif x==3:
-		S=""
-		for i in y:
-			S+=chr(i)
-		return S
-	elif x==4:
-		S=""
-		for i in y:
-			S+=chr(i)
-		return S
-	elif x==5:
-		S=""
-		for i in y:
-			S+=chr(i)
-		return S
-	elif x==6:
-		return y[0]*256+y[1]
-	elif x==7:
-		return y
-	elif x==8:
-		return y[0]*256+y[1]
-	elif x==9:
-		S=""
-		for i in y:
-			S+=chr(i)
-		return S
-	elif x==0x0A:
-		S=""
-		for i in y:
-			S+=chr(i)
-		return S
-	elif x==0x0B:
-		S=""
-		for i in y:
-			S+=chr(i)
-		return S
-	elif x==0x0C:
-		S=""
-		for i in y:
-			S+=chr(i)
-		return S
-	elif x==0x0D:
-		S=""
-		for i in y:
-			S+=chr(i)
-		return S
-	elif x==0x0E:
-		S=""
-		for i in y:
-			S+=chr(i)
-		return S
-	elif x==0x0F:
-		return y
-	elif x==0x10:
-		return y
-	elif x==0x11:
-		return y[0]*256+y[1]
-	elif x==0x12:
-		S=""
-		for i in y:
-			S+=chr(i)
-		return S
-	elif x==0x13:
-		S=""
-		for i in y:
-			S+=chr(i)
-		return S
-	elif x==0x14:
-		return y[0]*256+y[1]
-	elif x==0x15:
-		S=""
-		for i in y:
-			S+=chr(i)
-		return S[:4]+'-'+S[4:6]+'-'+S[6:8]+" "+S[8:10]+":"+S[10:12]+":"+S[12:]
-	elif x==0x16:
-		return y
-	elif x==0x17:
-		S=""
-		for i in y:
-			S+=chr(i)
-		return S
-	elif x==0x18:
-		S=""
-		for i in y:
-			S+=chr(i)
-		return S
-	elif x==0x19:
-		S=""
-		for i in y:
-			S+=chr(i)
-		return S
-	elif x==0x1A:
-		S=""
-		for i in y:
-			S+=chr(i)
-		return S
-	elif x==0x1B:
-		S=""
-		for i in y:
-			S+=chr(i)
-		return S
-	elif x==0x1C:
-		S=""
-		for i in y:
-			S+=chr(i)
-		return S
-	elif x==0x1D:
-		S=""
-		for i in y:
-			S+=chr(i)
-		return S
-	elif x==0x1E:
-		S=""
-		for i in y:
-			S+=chr(i)
-		return S
-	elif x==0x1F:
-		S=""
-		for i in y:
-			S+=chr(i)
-		return S
-	elif x==0x20:
-		S=""
-		for i in y:
-			S+=chr(i)
-		return S
-	elif x==0x21:
-		S=""
-		for i in y:
-			S+=chr(i)
-		return S
-	elif x==0x22:
-		S=""
-		for i in y:
-			S+=chr(i)
-		return S
-	elif x==0x23:
-		return y
-	elif x==0x24:
-		return y
-	elif x==0x25:
-		return y[0]*256+y[1]
-	elif x==0x26:
-		S=""
-		for i in y:
-			S+=chr(i)
-		return S
-	elif x==0x27:
-		return y[0]*256+y[1]
-	elif x==0x28:
-		S=""
-		for i in y:
-			S+=chr(i)
-		return S
-	elif x==0x29:
-		S=""
-		for i in y:
-			S+=chr(i)
-		return S
-	elif x==0x2A:
-		S=""
-		for i in y:
-			S+=chr(i)
-		return S
-	elif x==0x2B:
-		S=""
-		for i in y:
-			S+=chr(i)
-		return S
-	elif x==0x33:
-		return y
-	elif x==0x34:
-		S=""
-		for i in y:
-			S+=chr(i)
-		return S
-	elif x==0x35:
-		S=""
-		for i in y:
-			S+=chr(i)
-		return S
-	elif x==0x36:
-		S=""
-		for i in y:
-			S+=chr(i)
-		return S
-	elif x==0x37:
-		return y
-	elif x==0x38:
-		S=""
-		for i in y:
-			S+=chr(i)
-		return S
 
 def check_command(cmd):
 	#print(cmd)
-	if cmd[0]!=0x7e:
-		print("error start byte {:02} {:02x}".format(cmd[0],cmd[0]))
+	if cmd[0]!=0x24:
+		print("error start byte {:02} {:02} {:02x} {:02x}".format(cmd[0],cmd[1],cmd[0],cmd[1]))
 		return False
-	if cmd[-1]!=0x7e:
+	if cmd[1]!=0x24:
+		print("error start byte {:02} {:02} {:02x} {:02x}".format(cmd[0],cmd[1],cmd[0],cmd[1]))
+		return False
+	if cmd[-1]!=0x0d:
 		print("error end byte {:02} {:02x}".format(cmd[-1],cmd[-1]))
 		return False
 	if len(cmd)<40:
 		print("error message too small")
 		return False
 	code=0
-	for c in cmd[1:-2]:
+	for c in cmd[2:-2]:
 		code^=c
 	if code==cmd[-2]:
 		return True
@@ -479,6 +259,29 @@ def check_command(cmd):
 		print(cmd)
 		return False
 
+def get_command(cmd):
+	if cmd[2]==0x21:
+		print("Heart beat packet function")
+	elif cmd[2]==0x80:
+		print("Position data")
+	elif cmd[2]==0x81:
+		print("The return of rollcall")
+	elif cmd[2]==0x82:
+		print("Alarm data")
+	elif cmd[2]==0x83:
+		print("The data of terminal's status")
+	elif cmd[2]==0x84:
+		print("Message to center")
+	elif cmd[2]==0x85:
+		print("Terminal's answer data")
+	elif cmd[2]==0x8E:
+		print("The blind area data of GPRS")
+	elif cmd[2]==0x54:
+		print("The Trasmission of the picture frame")
+	elif cmd[2]==0x56:
+		print("the response of camera")
+	elif cmd[2]==0x57:
+		print("Picture data")
 def main():
 	import Send_device_data
 	while True:
