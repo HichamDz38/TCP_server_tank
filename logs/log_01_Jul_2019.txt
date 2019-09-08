@@ -1,0 +1,2 @@
+[+] Server TCP_server_V1.0 started : 45.35.12.92	
+	18:28:45 - 01/Jul/2019

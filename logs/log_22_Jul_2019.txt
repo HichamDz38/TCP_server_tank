@@ -1,0 +1,297 @@
+	[!] connection problem server
+		[Errno 98] Address already in use
+		01:35:05 - 22/Jul/2019
+	[!] connection problem server
+		[Errno 98] Address already in use
+		01:36:19 - 22/Jul/2019
+	[!] connection problem server
+		[Errno 98] Address already in use
+		01:36:39 - 22/Jul/2019
+	[!] connection problem server
+		[Errno 98] Address already in use
+		01:36:59 - 22/Jul/2019
+	[!] connection problem server
+		[Errno 98] Address already in use
+		01:37:12 - 22/Jul/2019
+	[!] connection problem server
+		[Errno 98] Address already in use
+		01:37:47 - 22/Jul/2019
+[+] Server TCP_server_V1.0 started : 45.35.12.92	
+	01:38:06 - 22/Jul/2019
+	[+]  get connection from 197.210.29.58 Server version TCP_server_V1.0	
+		01:38:22 - 22/Jul/2019	
+	[!] connection problem client 197.210.29.58	
+		'NoneType' object is not subscriptable	
+		01:38:25 - 22/Jul/2019
+[+] Server TCP_server_V1.0 started : 45.35.12.92	
+	01:43:45 - 22/Jul/2019
+	[+]  get connection from 197.210.52.111 Server version TCP_server_V1.0	
+		01:44:47 - 22/Jul/2019	
+	[!] connection problem client 197.210.52.111	
+		'NoneType' object is not subscriptable	
+		01:44:50 - 22/Jul/2019
+[+] Server TCP_server_V1.0 started : 45.35.12.92	
+	01:47:14 - 22/Jul/2019
+	[+]  get connection from 197.210.28.30 Server version TCP_server_V1.0	
+		01:47:15 - 22/Jul/2019	
+	[!] connection problem client 197.210.28.30	
+		'NoneType' object is not subscriptable	
+		01:47:17 - 22/Jul/2019
+[+] Server TCP_server_V1.0 started : 45.35.12.92	
+	01:49:28 - 22/Jul/2019
+	[+]  get connection from 197.210.227.253 Server version TCP_server_V1.0	
+		01:50:30 - 22/Jul/2019	
+	[!] connection problem client 197.210.227.253	
+		'NoneType' object is not subscriptable	
+		01:50:33 - 22/Jul/2019
+	[+]  get connection from 105.98.183.248 Server version TCP_server_V1.0	
+		01:50:33 - 22/Jul/2019	
+	[!] connection problem client 105.98.183.248	
+		'NoneType' object is not subscriptable	
+		01:50:33 - 22/Jul/2019
+[+] Server TCP_server_V1.0 started : 45.35.12.92	
+	01:54:14 - 22/Jul/2019
+	[+]  get connection from 105.98.183.248 Server version TCP_server_V1.0	
+		01:54:39 - 22/Jul/2019	
+	[!] connection problem client 105.98.183.248	
+		'NoneType' object is not subscriptable	
+		01:54:39 - 22/Jul/2019
+	[+]  get connection from 197.210.28.162 Server version TCP_server_V1.0	
+		01:55:38 - 22/Jul/2019	
+	[!] connection problem client 197.210.28.162	
+		'NoneType' object is not subscriptable	
+		01:55:41 - 22/Jul/2019
+	[!] connection problem server
+		[Errno 98] Address already in use
+		02:18:43 - 22/Jul/2019
+[+] Server TCP_server_V1.0 started : 45.35.12.92	
+	02:19:01 - 22/Jul/2019
+	[+]  get connection from 197.210.227.161 Server version TCP_server_V1.0	
+		02:19:16 - 22/Jul/2019	
+	[!] connection problem client 197.210.227.161	
+		'int' object is not subscriptable	
+		02:19:18 - 22/Jul/2019
+	[+]  get connection from 197.210.62.22 Server version TCP_server_V1.0	
+		02:26:09 - 22/Jul/2019	
+	[!] connection problem client 197.210.62.22	
+		'int' object is not subscriptable	
+		02:26:11 - 22/Jul/2019
+[+] Server TCP_server_V1.0 started : 45.35.12.92	
+	02:28:20 - 22/Jul/2019
+	[+]  get connection from 197.210.45.184 Server version TCP_server_V1.0	
+		02:28:26 - 22/Jul/2019	
+	[!] connection problem client 197.210.45.184	
+		'int' object is not subscriptable	
+		02:28:28 - 22/Jul/2019
+[+] Server TCP_server_V1.0 started : 45.35.12.92	
+	02:50:59 - 22/Jul/2019
+	[+]  get connection from 197.210.55.109 Server version TCP_server_V1.0	
+		02:51:00 - 22/Jul/2019	
+	[!] connection problem client 197.210.55.109	
+		'NoneType' object is not subscriptable	
+		02:51:02 - 22/Jul/2019
+	[+]  get connection from 197.210.28.237 Server version TCP_server_V1.0	
+		02:56:14 - 22/Jul/2019	
+	[!] connection problem client 197.210.28.237	
+		'NoneType' object is not subscriptable	
+		02:56:16 - 22/Jul/2019
+	[+]  get connection from 105.98.183.248 Server version TCP_server_V1.0	
+		02:56:24 - 22/Jul/2019	
+	[!] connection problem client 105.98.183.248	
+		'NoneType' object is not subscriptable	
+		02:56:24 - 22/Jul/2019
+	[!] connection problem server
+		[Errno 98] Address already in use
+		03:11:41 - 22/Jul/2019
+	[!] connection problem server
+		[Errno 98] Address already in use
+		03:12:00 - 22/Jul/2019
+[+] Server TCP_server_V1.0 started : 45.35.12.92	
+	03:12:20 - 22/Jul/2019
+	[+]  get connection from 105.98.183.248 Server version TCP_server_V1.0	
+		03:12:35 - 22/Jul/2019	
+	[!] connection problem client 105.98.183.248	
+		'NoneType' object is not subscriptable	
+		03:12:35 - 22/Jul/2019
+[+] Server TCP_server_V1.0 started : 45.35.12.92	
+	03:16:54 - 22/Jul/2019
+	[+]  get connection from 197.210.58.177 Server version TCP_server_V1.0	
+		03:16:58 - 22/Jul/2019	
+	[!] connection problem client 197.210.58.177	
+		'NoneType' object is not subscriptable	
+		03:17:00 - 22/Jul/2019
+	[+]  get connection from 105.98.183.248 Server version TCP_server_V1.0	
+		03:20:09 - 22/Jul/2019	
+	[!] connection problem client 105.98.183.248	
+		'NoneType' object is not subscriptable	
+		03:20:09 - 22/Jul/2019
+	[+]  get connection from 105.98.183.248 Server version TCP_server_V1.0	
+		03:20:46 - 22/Jul/2019	
+	[!] connection problem client 105.98.183.248	
+		'NoneType' object is not subscriptable	
+		03:20:46 - 22/Jul/2019
+	[!] connection problem server
+		[Errno 98] Address already in use
+		03:21:32 - 22/Jul/2019
+	[!] connection problem server
+		[Errno 98] Address already in use
+		03:22:08 - 22/Jul/2019
+	[!] connection problem server
+		[Errno 98] Address already in use
+		03:22:28 - 22/Jul/2019
+[+] Server TCP_server_V1.0 started : 45.35.12.92	
+	03:22:48 - 22/Jul/2019
+	[+]  get connection from 197.210.58.11 Server version TCP_server_V1.0	
+		03:22:58 - 22/Jul/2019	
+	[!] connection problem client 197.210.58.11	
+		list index out of range	
+		03:23:12 - 22/Jul/2019
+	[+]  get connection from 105.98.183.248 Server version TCP_server_V1.0	
+		03:26:43 - 22/Jul/2019	
+	[!] connection problem client 105.98.183.248	
+		must be str, not int	
+		03:26:43 - 22/Jul/2019
+	[!] connection problem server
+		[Errno 98] Address already in use
+		03:27:41 - 22/Jul/2019
+	[!] connection problem server
+		[Errno 98] Address already in use
+		03:28:01 - 22/Jul/2019
+[+] Server TCP_server_V1.0 started : 45.35.12.92	
+	03:28:21 - 22/Jul/2019
+	[+]  get connection from 105.98.183.248 Server version TCP_server_V1.0	
+		03:28:27 - 22/Jul/2019	
+	[!] connection problem client 105.98.183.248	
+		must be str, not int	
+		03:28:28 - 22/Jul/2019
+	[+]  get connection from 197.210.57.17 Server version TCP_server_V1.0	
+		03:28:42 - 22/Jul/2019	
+	[!] connection problem client 197.210.57.17	
+		must be str, not int	
+		03:28:45 - 22/Jul/2019
+	[!] connection problem server
+		[Errno 98] Address already in use
+		03:31:41 - 22/Jul/2019
+	[!] connection problem server
+		[Errno 98] Address already in use
+		03:32:01 - 22/Jul/2019
+[+] Server TCP_server_V1.0 started : 45.35.12.92	
+	03:32:21 - 22/Jul/2019
+	[+]  get connection from 197.210.227.53 Server version TCP_server_V1.0	
+		03:33:29 - 22/Jul/2019	
+	[!] connection problem client 197.210.227.53	
+		'tuple' object does not support item assignment	
+		03:33:33 - 22/Jul/2019
+[+] Server TCP_server_V1.0 started : 45.35.12.92	
+	03:41:27 - 22/Jul/2019
+	[+]  get connection from 105.98.183.248 Server version TCP_server_V1.0	
+		03:42:08 - 22/Jul/2019	
+	[!] connection problem client 105.98.183.248	
+		1054 (42S22): Unknown column 'data' in 'field list'	
+		03:42:08 - 22/Jul/2019
+	[+]  get connection from 197.210.58.15 Server version TCP_server_V1.0	
+		03:42:28 - 22/Jul/2019	
+	[!] connection problem client 197.210.58.15	
+		1054 (42S22): Unknown column 'data' in 'field list'	
+		03:42:32 - 22/Jul/2019
+[+] Server TCP_server_V1.0 started : 45.35.12.92	
+	03:52:21 - 22/Jul/2019
+	[+]  get connection from 105.98.183.248 Server version TCP_server_V1.0	
+		03:52:36 - 22/Jul/2019	
+	[!] connection problem server
+		[Errno 98] Address already in use
+		03:58:40 - 22/Jul/2019
+[+] Server TCP_server_V1.0 started : 45.35.12.92	
+	03:59:37 - 22/Jul/2019
+	[+]  get connection from 197.210.53.15 Server version TCP_server_V1.0	
+		04:00:07 - 22/Jul/2019	
+	[!] connection problem client 197.210.53.15	
+		list index out of range	
+		04:01:08 - 22/Jul/2019
+	[+]  get connection from 197.210.29.82 Server version TCP_server_V1.0	
+		04:13:01 - 22/Jul/2019	
+	[+]  get connection from 197.210.52.190 Server version TCP_server_V1.0	
+		04:21:08 - 22/Jul/2019	
+	[!] connection problem client 197.210.52.190	
+		list index out of range	
+		04:21:37 - 22/Jul/2019
+	[+]  get connection from 197.210.55.70 Server version TCP_server_V1.0	
+		04:51:06 - 22/Jul/2019	
+	[!] connection problem client 197.210.55.70	
+		list index out of range	
+		04:51:43 - 22/Jul/2019
+	[+]  get connection from 197.210.227.112 Server version TCP_server_V1.0	
+		05:21:13 - 22/Jul/2019	
+	[!] connection problem client 197.210.227.112	
+		list index out of range	
+		05:21:48 - 22/Jul/2019
+	[+]  get connection from 197.210.45.159 Server version TCP_server_V1.0	
+		05:51:21 - 22/Jul/2019	
+	[!] connection problem client 197.210.45.159	
+		list index out of range	
+		05:51:53 - 22/Jul/2019
+	[+]  get connection from 197.210.58.193 Server version TCP_server_V1.0	
+		06:21:22 - 22/Jul/2019	
+	[!] connection problem client 197.210.58.193	
+		list index out of range	
+		06:21:58 - 22/Jul/2019
+	[+]  get connection from 197.210.60.26 Server version TCP_server_V1.0	
+		06:51:27 - 22/Jul/2019	
+	[!] connection problem client 197.210.60.26	
+		list index out of range	
+		06:52:03 - 22/Jul/2019
+	[+]  get connection from 197.210.57.177 Server version TCP_server_V1.0	
+		07:21:32 - 22/Jul/2019	
+	[!] connection problem client 197.210.57.177	
+		list index out of range	
+		07:22:09 - 22/Jul/2019
+	[+]  get connection from 197.210.47.27 Server version TCP_server_V1.0	
+		07:51:41 - 22/Jul/2019	
+	[!] connection problem client 197.210.47.27	
+		list index out of range	
+		07:52:14 - 22/Jul/2019
+	[+]  get connection from 197.210.58.15 Server version TCP_server_V1.0	
+		08:21:45 - 22/Jul/2019	
+	[!] connection problem client 197.210.58.15	
+		list index out of range	
+		08:22:23 - 22/Jul/2019
+	[+]  get connection from 197.210.45.199 Server version TCP_server_V1.0	
+		08:51:48 - 22/Jul/2019	
+	[!] connection problem client 197.210.45.199	
+		list index out of range	
+		08:52:24 - 22/Jul/2019
+	[+]  get connection from 197.210.28.97 Server version TCP_server_V1.0	
+		09:21:53 - 22/Jul/2019	
+	[!] connection problem client 197.210.28.97	
+		list index out of range	
+		09:22:29 - 22/Jul/2019
+	[+]  get connection from 197.210.62.25 Server version TCP_server_V1.0	
+		09:51:57 - 22/Jul/2019	
+	[!] connection problem client 197.210.62.25	
+		list index out of range	
+		09:52:34 - 22/Jul/2019
+	[+]  get connection from 197.210.55.141 Server version TCP_server_V1.0	
+		10:22:10 - 22/Jul/2019	
+	[!] connection problem client 197.210.55.141	
+		list index out of range	
+		10:22:39 - 22/Jul/2019
+	[+]  get connection from 197.210.54.151 Server version TCP_server_V1.0	
+		10:52:14 - 22/Jul/2019	
+	[!] connection problem client 197.210.54.151	
+		list index out of range	
+		10:52:46 - 22/Jul/2019
+	[+]  get connection from 197.210.226.139 Server version TCP_server_V1.0	
+		11:22:14 - 22/Jul/2019	
+	[!] connection problem client 197.210.226.139	
+		list index out of range	
+		11:22:49 - 22/Jul/2019
+	[+]  get connection from 197.210.54.56 Server version TCP_server_V1.0	
+		11:52:18 - 22/Jul/2019	
+	[!] connection problem client 197.210.54.56	
+		list index out of range	
+		11:52:54 - 22/Jul/2019
+	[+]  get connection from 197.210.58.98 Server version TCP_server_V1.0	
+		12:22:24 - 22/Jul/2019	
+	[!] connection problem client 197.210.58.98	
+		list index out of range	
+		12:22:59 - 22/Jul/2019

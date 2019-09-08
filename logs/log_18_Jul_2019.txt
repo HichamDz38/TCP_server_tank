@@ -1,0 +1,54 @@
+	[!] connection problem server
+		[Errno 98] Address already in use
+		01:04:57 - 18/Jul/2019
+[+] Server TCP_server_V1.0 started : 45.35.12.92	
+	01:05:31 - 18/Jul/2019
+[+] Server TCP_server_V1.0 started : 45.35.12.92	
+	19:37:13 - 18/Jul/2019
+	[+]  get connection from 197.210.226.8 Server version TCP_server_V1.0	
+		20:06:47 - 18/Jul/2019	
+	[!] connection problem client 197.210.226.8	
+		list index out of range	
+		20:07:48 - 18/Jul/2019
+[+] Server TCP_server_V1.0 started : 45.35.12.92	
+	20:11:18 - 18/Jul/2019
+	[+]  get connection from 197.210.54.199 Server version TCP_server_V1.0	
+		20:12:28 - 18/Jul/2019	
+	[!] connection problem client 197.210.54.199	
+		list index out of range	
+		20:13:47 - 18/Jul/2019
+	[+]  get connection from 197.210.57.87 Server version TCP_server_V1.0	
+		20:39:37 - 18/Jul/2019	
+	[!] connection problem client 197.210.57.87	
+		list index out of range	
+		20:40:14 - 18/Jul/2019
+	[+]  get connection from 197.210.55.137 Server version TCP_server_V1.0	
+		21:10:14 - 18/Jul/2019	
+	[!] connection problem client 197.210.55.137	
+		list index out of range	
+		21:10:47 - 18/Jul/2019
+	[+]  get connection from 197.210.60.126 Server version TCP_server_V1.0	
+		22:01:32 - 18/Jul/2019	
+	[!] connection problem client 197.210.60.126	
+		list index out of range	
+		22:02:37 - 18/Jul/2019
+	[+]  get connection from 197.210.54.229 Server version TCP_server_V1.0	
+		22:06:06 - 18/Jul/2019	
+	[!] connection problem client 197.210.54.229	
+		list index out of range	
+		22:06:33 - 18/Jul/2019
+	[+]  get connection from 197.210.226.34 Server version TCP_server_V1.0	
+		22:36:42 - 18/Jul/2019	
+	[!] connection problem client 197.210.226.34	
+		list index out of range	
+		22:37:15 - 18/Jul/2019
+	[+]  get connection from 197.210.29.46 Server version TCP_server_V1.0	
+		23:07:18 - 18/Jul/2019	
+	[!] connection problem client 197.210.29.46	
+		list index out of range	
+		23:07:52 - 18/Jul/2019
+	[+]  get connection from 197.210.227.109 Server version TCP_server_V1.0	
+		23:37:53 - 18/Jul/2019	
+	[!] connection problem client 197.210.227.109	
+		list index out of range	
+		23:38:30 - 18/Jul/2019

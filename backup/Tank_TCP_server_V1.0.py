@@ -9,7 +9,6 @@ from Send_device_data import *
 from command_creator import *
 import struct
 global plat_M_SN
-from Send_values import insert_data
 sv=sys.argv[0]
 sv=sv[sv.find('_')+1:]
 sv=sv[:sv.find('.py')]
@@ -43,17 +42,14 @@ def handle_client(c, addr):
 			if not(lll):
 				return
 			val=int.from_bytes(lll,byteorder="big")
-			#Ll+=lll
+			Ll+=lll
 			ll=val#ord(lll)
-			#print('{:02x}'.format(ll),end=' ')
+			print('{:02x}'.format(ll),end=' ')
 			if ll==0x7e:
 				n+=1
 			l.append(ll)
 			Ll.append(hex(ll)[2:])
-		#print()
-		#print(l)
-		if (val!=0x0d):continue
-		
+		print()
 		print(' '.join(Ll))
 		ecode=l
 		#if n<2:continue
@@ -70,22 +66,16 @@ def handle_client(c, addr):
 		f.close()
 		#l=ut8_hex(l)
 		l2=list(map(lambda x:hex(x)[2:].rjust(2,'0'),l))
-		print(''.join(l2))
+		print(l)
+
 		if (check_command(l)):
-			print("check done")
-			datta=get_command(l)
-			print("get done")
-			print(datta)
-			insert_data(datta)
-			print("insert done")
-			"""
+			get_command(l[2])
 			M=Rollcall(addr[0])
-			print("roll done")
 			for ik in M:
 				#MM+=chr(ik)
 				val = bytes([ik])
 				c.send(val)
-			"""
+			
 
 		elif Ll==['7e', '6c', '5a', '31', '32', '33', '46', '67', '66', '31', '32', '6e', '6e', '7a', '6f', '65', '31', '32', '34', '40', '7a', '65', '72', '21', '7e']:
 			print("shut_down_request")

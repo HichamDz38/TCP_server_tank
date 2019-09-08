@@ -259,11 +259,61 @@ def check_command(cmd):
 		print(cmd)
 		return False
 
+def Position_parser(cmd):
+	length=cmd[3:5]
+	T_Id=cmd[5:9]
+	tim=cmd[9:15]
+	latitude=cmd[15:19]
+	longitude=cmd[19:23]
+	speed=cmd[23:25]
+	direction=cmd[25:27]
+	gps=cmd[27:28]
+	detection=cmd[28:29]
+	ignition=cmd[29:30]
+	oil=cmd[30:32]
+	voltage=cmd[44:46]#cmd[32:34]
+	mileage=cmd[34:38]
+	temperature=cmd[38:40]
+
+	print('message length {} '.format(length[0]*256+length[1]))
+	print('Terminal ID {:02x} {:02x} {:02x} {:02x}'.format(T_Id[0],T_Id[1],T_Id[2],T_Id[3]))
+	print('latitude {}{}{}'.format(latitude[1],latitude[2],latitude[3]))
+	print('longitude {}{}{}'.format(longitude[1],longitude[2],longitude[3]))
+	print('length {:02x}{:02x} {}'.format(length[0],length[1],length))
+	print('speed {:02x}{:02x} {}'.format(speed[0],speed[1],speed))
+	print('direction {:02x}{:02x} {}'.format(direction[0],direction[1],direction))
+	print('Time     : 20{:02x}-{:02x}-{:02x} {:02x}:{:02x}:{:02x}'.format(tim[0],tim[1],tim[2],tim[3],tim[4],tim[5]))
+	print('id')
+	Terminal_ID='{:02x}{:02x}{:02x}{:02x}'.format(T_Id[0],T_Id[1],T_Id[2],T_Id[3])
+	print('time')
+	Time='20{:02x}-{:02x}-{:02x} {:02x}:{:02x}:{:02x}'.format(tim[0],tim[1],tim[2],tim[3],tim[4],tim[5])
+	print('latitude')
+	Latitude=int('{:02x}{:02x}{:02x}'.format(latitude[1]%16,latitude[2],latitude[3]))/60000+int('{:02x}{:02x}'.format(latitude[0],latitude[1]//16))
+	print('longitude')
+	Longitude=int('{:02x}{:02x}{:02x}'.format(longitude[1]%16,longitude[2],longitude[3]))/60000+int('{:02x}{:02x}'.format(longitude[0],longitude[1]//16))
+	print('Speed')
+	Speed=speed[0]*100+speed[1]
+	print('Direction')
+	Direction=direction[0]*100+direction[1]
+	print('gps')
+	Gps=gps
+	print('detectio')
+	Detection=detection
+	print('ignition')
+	Ignition=ignition
+	print('oil_resistor')
+	Oil=int('{:02x}{:02x}'.format(oil[0],oil[1]),16)/10
+	print('voltage')
+	Voltage=int(voltage[0])*16+int(voltage[1])
+	print(Terminal_ID,Latitude,Longitude,Voltage,Time)
+	return [Terminal_ID,Latitude,Longitude,Voltage,Time,Speed,Direction,Gps,Detection,Ignition,Oil]
+	
 def get_command(cmd):
 	if cmd[2]==0x21:
 		print("Heart beat packet function")
 	elif cmd[2]==0x80:
 		print("Position data")
+		return Position_parser(cmd)
 	elif cmd[2]==0x81:
 		print("The return of rollcall")
 	elif cmd[2]==0x82:
@@ -276,6 +326,7 @@ def get_command(cmd):
 		print("Terminal's answer data")
 	elif cmd[2]==0x8E:
 		print("The blind area data of GPRS")
+		return Position_parser(cmd)
 	elif cmd[2]==0x54:
 		print("The Trasmission of the picture frame")
 	elif cmd[2]==0x56:

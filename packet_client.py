@@ -7,8 +7,8 @@ s = socket.socket()         # Create a socket object
 #s.settimeout(60)
 #address = socket.gethostbyname(socket.gethostname())
 #target = socket.gethostname()
-#targ="45.35.12.92"#input('enter the server : ')
-targ="192.168.32.1"
+targ="45.35.12.92"#input('enter the server : ')
+#targ="192.168.32.1"
 port = 5133#int(input('enter the port :'))#5132                # Reserve a port for your service.
 s.connect((targ, port))        # Bind to the port
 
@@ -16,7 +16,7 @@ print("connected to : {}:{}".format(targ,port))
 
 def main():
 	#m=list(map(lambda x:int(x,16),"7E 02 00 00 5D 00 00 00 00 05 31 00 0A 00 00 00 00 00 00 00 03 01 58 F5 22 06 C9 16 B0 00 00 00 00 00 00 19 06 14 11 02 21 01 04 00 00 00 00 33 39 2A 4D 30 30 2C 34 38 2C 31 31 34 31 35 30 47 5A 44 53 45 54 4D 30 30 2D 30 30 26 30 30 30 30 30 30 30 30 30 30 30 30 26 31 32 33 34 35 36 37 38 39 30 31 32 33 34 35 36 23 92 7E".split()))
-	m=list(map(lambda x:int(x,16),"24 24 82 00 33 00 34 25 e2 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 47 00 00 00 00 1d 00 00 00 00 00 00 00 00 00 03 00 00 00 00 00 00 00 00 00 08 13 0d ".split()))
+	m=list(map(lambda x:int(x,16),"24 24 8e 00 31 00 34 25 e2 19 07 21 08 31 50 00 63 65 18 00 32 09 97 00 00 00 00 c0 47 00 00 00 10 53 00 00 00 00 00 00 00 00 00 03 ff ff 00 00 00 00 00 00 6f 0d".split()))
 	for i in m:
 		val = bytes([i])#struct.pack('!b', i)
 		s.send(val)
